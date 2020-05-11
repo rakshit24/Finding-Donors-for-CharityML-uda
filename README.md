@@ -1,4 +1,4 @@
-# Finding-Donors-for-CharityML
+# Finding-Donors-for-CharityML-uda
 Project 1
 
 Project Overview:
